@@ -13,7 +13,6 @@ sites:
   - name: MOUND MEDIA
     url: https://moundmedia.co.kr/
     
-
 status-website:
   cname: status.poclanos.cord.town
   logoUrl: https://gallery.cord.town/media/original/poclanos/poclanos.jpg
