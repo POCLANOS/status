@@ -4,6 +4,15 @@ repo: status
 sites:
   - name: POCLANOS
     url: https://poclanos.com/
+  - name: MAGIC STRAWBERRY SOUND
+    url: https://www.msbsound.com/
+  - name: OZZ
+    url: https://www.oz-z.com/
+  - name: MUSA
+    url: https://storemusa.com/
+  - name: MOUND MEDIA
+    url: https://moundmedia.co.kr/
+    
 
 status-website:
   cname: status.poclanos.cord.town
