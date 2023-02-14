@@ -17,4 +17,4 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Discord
-      href: https://go.ambler.kr/discord
+      href: https://poclanos.cord.town/discord
