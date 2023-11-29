@@ -109,17 +109,19 @@
     "url": "https://moundmedia.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/moundmedia.co.kr.ico",
     "slug": "mound-media",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1169,
-    "timeDay": 1360,
-    "timeWeek": 1242,
-    "timeMonth": 1180,
+    "timeDay": 1245,
+    "timeWeek": 1228,
+    "timeMonth": 1178,
     "timeYear": 1169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-29": 0
+    }
   }
 ]
