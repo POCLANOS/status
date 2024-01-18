@@ -48,9 +48,9 @@
     "url": "https://www.msbsound.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.msbsound.com.ico",
     "slug": "magic-strawberry-sound",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -60,6 +60,7 @@
     "timeMonth": 1937,
     "timeYear": 1870,
     "dailyMinutesDown": {
+      "2024-01-18": 0,
       "2023-10-13": 229
     }
   },
@@ -88,24 +89,24 @@
     "slug": "musa",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "64.92%",
-    "uptimeWeek": "66.05%",
-    "uptimeMonth": "91.91%",
+    "uptimeDay": "65.92%",
+    "uptimeWeek": "66.50%",
+    "uptimeMonth": "91.85%",
     "uptimeYear": "99.27%",
     "time": 838,
-    "timeDay": 748,
-    "timeWeek": 727,
+    "timeDay": 741,
+    "timeWeek": 726,
     "timeMonth": 753,
     "timeYear": 838,
     "dailyMinutesDown": {
-      "2024-01-18": 327,
+      "2024-01-18": 315,
       "2024-01-17": 575,
       "2024-01-16": 359,
       "2024-01-15": 534,
       "2024-01-14": 428,
       "2024-01-13": 556,
       "2024-01-12": 414,
-      "2024-01-11": 349
+      "2024-01-11": 387
     }
   },
   {
