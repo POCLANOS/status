@@ -11,7 +11,7 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.82%",
     "time": 1706,
-    "timeDay": 1751,
+    "timeDay": 1926,
     "timeWeek": 1706,
     "timeMonth": 1722,
     "timeYear": 1706,
@@ -56,8 +56,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
     "time": 1874,
-    "timeDay": 2275,
-    "timeWeek": 1970,
+    "timeDay": 2126,
+    "timeWeek": 1989,
     "timeMonth": 1993,
     "timeYear": 1874,
     "dailyMinutesDown": {
@@ -77,8 +77,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1006,
-    "timeDay": 1068,
-    "timeWeek": 1030,
+    "timeDay": 1056,
+    "timeWeek": 1015,
     "timeMonth": 1028,
     "timeYear": 1006,
     "dailyMinutesDown": {}
@@ -88,15 +88,15 @@
     "url": "https://storemusa.com/",
     "icon": "https://icons.duckduckgo.com/ip3/storemusa.com.ico",
     "slug": "musa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "74.16%",
+    "uptimeDay": "74.14%",
     "uptimeWeek": "68.21%",
-    "uptimeMonth": "92.19%",
+    "uptimeMonth": "92.23%",
     "uptimeYear": "99.33%",
     "time": 779,
-    "timeDay": 685,
-    "timeWeek": 669,
+    "timeDay": 679,
+    "timeWeek": 668,
     "timeMonth": 717,
     "timeYear": 779,
     "dailyMinutesDown": {
@@ -107,7 +107,7 @@
       "2024-01-28": 346,
       "2024-01-27": 447,
       "2024-01-26": 480,
-      "2024-01-25": 249
+      "2024-01-25": 230
     }
   },
   {
@@ -122,8 +122,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1170,
-    "timeDay": 1469,
-    "timeWeek": 1251,
+    "timeDay": 1795,
+    "timeWeek": 1236,
     "timeMonth": 1213,
     "timeYear": 1170,
     "dailyMinutesDown": {
