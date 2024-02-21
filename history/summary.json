@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.83%",
-    "time": 1697,
-    "timeDay": 1544,
-    "timeWeek": 1407,
-    "timeMonth": 1558,
+    "time": 1696,
+    "timeDay": 1590,
+    "timeWeek": 1410,
+    "timeMonth": 1551,
     "timeYear": 1697,
     "dailyMinutesDown": {
       "2024-01-22": 31,
@@ -56,10 +56,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1872,
-    "timeDay": 2764,
-    "timeWeek": 2057,
-    "timeMonth": 1870,
-    "timeYear": 1875,
+    "timeDay": 1888,
+    "timeWeek": 2091,
+    "timeMonth": 1853,
+    "timeYear": 1876,
     "dailyMinutesDown": {
       "2024-01-18": 28,
       "2023-10-13": 229
@@ -77,10 +77,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1005,
-    "timeDay": 1126,
-    "timeWeek": 1000,
-    "timeMonth": 989,
-    "timeYear": 1005,
+    "timeDay": 1100,
+    "timeWeek": 1023,
+    "timeMonth": 988,
+    "timeYear": 1006,
     "dailyMinutesDown": {}
   },
   {
@@ -88,16 +88,16 @@
     "url": "https://storemusa.com/",
     "icon": "https://icons.duckduckgo.com/ip3/storemusa.com.ico",
     "slug": "musa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "57.00%",
-    "uptimeWeek": "63.71%",
-    "uptimeMonth": "91.17%",
-    "uptimeYear": "99.26%",
+    "uptimeDay": "57.96%",
+    "uptimeWeek": "64.02%",
+    "uptimeMonth": "91.21%",
+    "uptimeYear": "99.27%",
     "time": 757,
-    "timeDay": 839,
+    "timeDay": 822,
     "timeWeek": 746,
-    "timeMonth": 702,
+    "timeMonth": 703,
     "timeYear": 756,
     "dailyMinutesDown": {
       "2024-02-21": 563,
@@ -107,7 +107,7 @@
       "2024-02-17": 502,
       "2024-02-16": 643,
       "2024-02-15": 571,
-      "2024-02-14": 240
+      "2024-02-14": 222
     }
   },
   {
@@ -122,10 +122,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1168,
-    "timeDay": 1231,
-    "timeWeek": 1174,
-    "timeMonth": 1164,
-    "timeYear": 1169,
+    "timeDay": 1208,
+    "timeWeek": 1170,
+    "timeMonth": 1152,
+    "timeYear": 1170,
     "dailyMinutesDown": {
       "2023-11-29": 20
     }
