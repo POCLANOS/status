@@ -88,17 +88,17 @@
     "url": "https://storemusa.com/",
     "icon": "https://icons.duckduckgo.com/ip3/storemusa.com.ico",
     "slug": "musa",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "75.45%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "75.44%",
     "uptimeWeek": "73.66%",
-    "uptimeMonth": "92.52%",
+    "uptimeMonth": "92.61%",
     "uptimeYear": "99.38%",
     "time": 760,
-    "timeDay": 784,
-    "timeWeek": 782,
+    "timeDay": 777,
+    "timeWeek": 780,
     "timeMonth": 728,
-    "timeYear": 759,
+    "timeYear": 758,
     "dailyMinutesDown": {
       "2024-02-29": 227,
       "2024-02-28": 515,
@@ -108,7 +108,7 @@
       "2024-02-24": 399,
       "2024-02-23": 373,
       "2024-02-22": 429,
-      "2024-02-21": 334
+      "2024-02-21": 296
     }
   },
   {
