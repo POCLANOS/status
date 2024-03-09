@@ -90,24 +90,24 @@
     "slug": "musa",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "66.52%",
-    "uptimeWeek": "65.12%",
-    "uptimeMonth": "91.45%",
+    "uptimeDay": "68.89%",
+    "uptimeWeek": "65.50%",
+    "uptimeMonth": "91.43%",
     "uptimeYear": "99.29%",
     "time": 761,
-    "timeDay": 774,
-    "timeWeek": 774,
+    "timeDay": 770,
+    "timeWeek": 775,
     "timeMonth": 754,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2024-03-08": 457,
+      "2024-03-08": 448,
       "2024-03-07": 453,
       "2024-03-06": 390,
       "2024-03-05": 564,
       "2024-03-04": 661,
       "2024-03-03": 380,
       "2024-03-02": 613,
-      "2024-03-01": 234
+      "2024-03-01": 252
     }
   },
   {
